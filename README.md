@@ -1,9 +1,9 @@
 # learning
 I'm learning to code, interested in data analytics and data science
-This repository is for track my learning 
+This repository is for track my learning, I've enrolled in November 2022
 
-The course curriculum includes the following technologies and topics mastered by me:  
-1. Python : Pandas, Numpy, Seaborn
-2. SQL : QUERYING TABLE, FILTERRING DATA, AGGREGATING DATA, JOIN TABLE
-
-**List of projects:**
+## List of course
+1. [Kaggle](https://www.kaggle.com/learn); Intro to SQL, Advanced SQL, Python
+2. [Microsoft Learn](https://learn.microsoft.com/en-us/); Azure, SQL SERVER, PowerBI
+3. [Datacamp](https://www.datacamp.com/); Data Analyst in SQL, Tableau
+4. [Coursera](https://www.coursera.org/); Google Data Analytics
